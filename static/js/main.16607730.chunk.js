@@ -1,2 +1,0 @@
-(this["webpackJsonpbiogen-technical-test"]=this["webpackJsonpbiogen-technical-test"]||[]).push([[0],{9:function(e,t,n){"use strict";n.r(t);var c=n(1),i=n.n(c),r=n(3),s=n.n(r),o=n(0);var a=function(){return Object(o.jsx)("div",{children:"TEST"})};s.a.render(Object(o.jsx)(i.a.StrictMode,{children:Object(o.jsx)(a,{})}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.16607730.chunk.js.map

@@ -1,17 +1,32 @@
 {
   "files": {
-    "main.js": "/biogen-technical-test/static/js/main.16607730.chunk.js",
-    "main.js.map": "/biogen-technical-test/static/js/main.16607730.chunk.js.map",
+    "main.js": "/biogen-technical-test/static/js/main.13ff2987.chunk.js",
+    "main.js.map": "/biogen-technical-test/static/js/main.13ff2987.chunk.js.map",
     "runtime-main.js": "/biogen-technical-test/static/js/runtime-main.4a2376e2.js",
     "runtime-main.js.map": "/biogen-technical-test/static/js/runtime-main.4a2376e2.js.map",
-    "static/js/2.1aeee585.chunk.js": "/biogen-technical-test/static/js/2.1aeee585.chunk.js",
-    "static/js/2.1aeee585.chunk.js.map": "/biogen-technical-test/static/js/2.1aeee585.chunk.js.map",
+    "static/css/2.48e090b6.chunk.css": "/biogen-technical-test/static/css/2.48e090b6.chunk.css",
+    "static/js/2.8988c8b7.chunk.js": "/biogen-technical-test/static/js/2.8988c8b7.chunk.js",
+    "static/js/2.8988c8b7.chunk.js.map": "/biogen-technical-test/static/js/2.8988c8b7.chunk.js.map",
     "index.html": "/biogen-technical-test/index.html",
-    "static/js/2.1aeee585.chunk.js.LICENSE.txt": "/biogen-technical-test/static/js/2.1aeee585.chunk.js.LICENSE.txt"
+    "static/css/2.48e090b6.chunk.css.map": "/biogen-technical-test/static/css/2.48e090b6.chunk.css.map",
+    "static/js/2.8988c8b7.chunk.js.LICENSE.txt": "/biogen-technical-test/static/js/2.8988c8b7.chunk.js.LICENSE.txt",
+    "static/media/Poppins-Medium.9e1bb626.ttf": "/biogen-technical-test/static/media/Poppins-Medium.9e1bb626.ttf",
+    "static/media/card01.8b3b8768.png": "/biogen-technical-test/static/media/card01.8b3b8768.png",
+    "static/media/card02.e8e1ded1.png": "/biogen-technical-test/static/media/card02.e8e1ded1.png",
+    "static/media/card03.2391f519.png": "/biogen-technical-test/static/media/card03.2391f519.png",
+    "static/media/card04.8a6b984e.png": "/biogen-technical-test/static/media/card04.8a6b984e.png",
+    "static/media/styles.css": "/biogen-technical-test/static/media/revicons.e8746a62.woff",
+    "static/media/video01.c21ed1b1.jpg": "/biogen-technical-test/static/media/video01.c21ed1b1.jpg",
+    "static/media/video02.4e3a5f52.jpg": "/biogen-technical-test/static/media/video02.4e3a5f52.jpg",
+    "static/media/video03.594485dc.jpg": "/biogen-technical-test/static/media/video03.594485dc.jpg",
+    "static/media/video04.a0215138.jpg": "/biogen-technical-test/static/media/video04.a0215138.jpg",
+    "static/media/video05.89c0f3f5.jpg": "/biogen-technical-test/static/media/video05.89c0f3f5.jpg",
+    "static/media/video06.591e80aa.jpg": "/biogen-technical-test/static/media/video06.591e80aa.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4a2376e2.js",
-    "static/js/2.1aeee585.chunk.js",
-    "static/js/main.16607730.chunk.js"
+    "static/css/2.48e090b6.chunk.css",
+    "static/js/2.8988c8b7.chunk.js",
+    "static/js/main.13ff2987.chunk.js"
   ]
 }
