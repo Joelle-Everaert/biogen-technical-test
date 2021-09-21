@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/biogen-technical-test/static/js/main.16607730.chunk.js",
+    "main.js.map": "/biogen-technical-test/static/js/main.16607730.chunk.js.map",
+    "runtime-main.js": "/biogen-technical-test/static/js/runtime-main.4a2376e2.js",
+    "runtime-main.js.map": "/biogen-technical-test/static/js/runtime-main.4a2376e2.js.map",
+    "static/js/2.1aeee585.chunk.js": "/biogen-technical-test/static/js/2.1aeee585.chunk.js",
+    "static/js/2.1aeee585.chunk.js.map": "/biogen-technical-test/static/js/2.1aeee585.chunk.js.map",
+    "index.html": "/biogen-technical-test/index.html",
+    "static/js/2.1aeee585.chunk.js.LICENSE.txt": "/biogen-technical-test/static/js/2.1aeee585.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a2376e2.js",
+    "static/js/2.1aeee585.chunk.js",
+    "static/js/main.16607730.chunk.js"
+  ]
+}
