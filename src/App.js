@@ -1,11 +1,17 @@
 
+import NavBar from './components/Layout'
 
-function App() {
+
+
+const App = () => {
   return (
-    <div>
-      TEST
-    </div>
-  );
+    <>
+      <NavBar />
+      <div className="container">
+        test
+      </div>
+    </>
+  )
 }
 
-export default App;
+export default App
