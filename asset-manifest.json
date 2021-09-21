@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/biogen-technical-test/static/js/main.ac62c68c.chunk.js",
-    "main.js.map": "/biogen-technical-test/static/js/main.ac62c68c.chunk.js.map",
+    "main.js": "/biogen-technical-test/static/js/main.a84f7ef4.chunk.js",
+    "main.js.map": "/biogen-technical-test/static/js/main.a84f7ef4.chunk.js.map",
     "runtime-main.js": "/biogen-technical-test/static/js/runtime-main.4a2376e2.js",
     "runtime-main.js.map": "/biogen-technical-test/static/js/runtime-main.4a2376e2.js.map",
     "static/css/2.48e090b6.chunk.css": "/biogen-technical-test/static/css/2.48e090b6.chunk.css",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.4a2376e2.js",
     "static/css/2.48e090b6.chunk.css",
     "static/js/2.8988c8b7.chunk.js",
-    "static/js/main.ac62c68c.chunk.js"
+    "static/js/main.a84f7ef4.chunk.js"
   ]
 }
