@@ -21,6 +21,7 @@ const GlobalStyle = createGlobalStyle`
 
   .container {
     width: 100%;
+    margin: 0 auto;
     box-sizing: border-box;
     padding: 0 0 0 1rem;
 }
@@ -30,8 +31,16 @@ const GlobalStyle = createGlobalStyle`
 .container {
     max-width: 1184px;
     margin: 0 auto;
-    padding: 0 1rem;
+    padding: 0 4.7rem;
   }
+}
+
+.react-multiple-carousel__arrow {
+  background-color: #F0F2F5;
+}
+
+.react-multiple-carousel__arrow::before {
+  color: #57667E;
 }
 
 `

@@ -30,7 +30,7 @@ const App = () => {
         
         <GeneralCarousel title={<Title>Zuletzt angesehen<StyledLink href='#'> Alle zeigen ({MockedVideoPreviews.length}) </StyledLink> </Title>} children={MockedVideoPreviews}/>
         
-       
+      
       </div>
     </>
   )
