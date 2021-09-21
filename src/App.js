@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 import NavBar from './components/Layout'
 import { device } from './utils/responsive/breakpoints'
-import GeneralCarousel from './components/pages/Carousel'
+import GeneralCarousel from './components/pages/GeneralCarousel'
 import MockedVideoPreviews from './components/Mapping/MockedVideoPreviews'
 import MockedCards from './components/Mapping/MockedCards'
 
