@@ -60,7 +60,7 @@ const TextTag = styled.p`
   display: flex;
   align-items: center;
   text-transform: uppercase;
-  color: #FFFFFF;
+  color: #ffffff;
 `
 
 const Time = styled.div`
@@ -80,7 +80,7 @@ const Time = styled.div`
 `
 const TextTime = styled.p`
   font-size: 0.75rem;
-  color: #FFFFFF
+  color: #ffffff;
 `
 const ProgressBar = styled.div`
   width: 4.3537rem;
@@ -106,7 +106,7 @@ const TextTitle = styled.p`
   display: flex;
   color: #1f252e;
   margin: 0.5rem 0rem;
-  @media ${device.laptop}{
+  @media ${device.laptop} {
     font-size: 1rem;
   }
 `
@@ -127,7 +127,9 @@ const MockedVideoPreviews = mockDataVideos.map((item) => {
             <ProgressBar />
           </Wrapper>
         </Box>
-        <Title><TextTitle>{item.title}</TextTitle></Title>
+        <Title>
+          <TextTitle>{item.title}</TextTitle>
+        </Title>
       </ContainerVideo>
     </>
   )
